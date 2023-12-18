@@ -1,0 +1,24 @@
+test|test|test|test|0
+a|a|a|a|0
+jean|jean|jean|jean|0
+jean|test|jean|test|0
+test_|test_|test_|test_|0
+1984|George Orwell|978-0451524935|Dystopie|0
+Le Petit Prince|Antoine de Saint-Exupéry|978-0156012195|Conte philosophique|0
+To Kill a Mockingbird|Harper Lee|978-0446310789|Roman|0
+Pride and Prejudice|Jane Austen|978-0141439518|Fiction classique|0
+The Great Gatsby|F. Scott Fitzgerald|978-0743273565|Roman|0
+Crime and Punishment|Fyodor Dostoevsky|978-0486454115|Roman philosophique|0
+Moby Dick|Herman Melville|978-1503280786|Aventure|0
+The Catcher in the Rye|J.D. Salinger|978-0316769488|Fiction|0
+The Alchemist|Paulo Coelho|978-0062315007|Roman|0
+Brave New World|Aldous Huxley|978-0060850524|Dystopie|0
+Les Misérables|Victor Hugo|978-1846140495|Roman historique|0
+Fahrenheit 451|Ray Bradbury|978-1451673319|Dystopie|0
+Jane Eyre|Charlotte Brontë|978-0141441146|Roman|0
+Le Seigneur des Anneaux|J.R.R. Tolkien|978-0261103207|Fantasy|0
+Le Comte de Monte-Cristo|Alexandre Dumas|978-0140449266|Aventure|0
+Hamlet|William Shakespeare|978-0141396507|Tragédie|0
+Don Quichotte|Miguel de Cervantes|978-0060934347|Roman|0
+L'Étranger|Albert Camus|978-2070360024|Roman philosophique|0
+Anna Karenina|Leo Tolstoy|978-0140449174|Roman|0
